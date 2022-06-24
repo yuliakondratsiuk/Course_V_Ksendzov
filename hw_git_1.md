@@ -13,7 +13,7 @@
 
 Файл со сценарием и ссылку на свой гит хаб отправляйте менторам на проверку.
 
-## [JSON](https://github.com/yuliakondratsiuk/JSON) [Page](https://yuliakondratsiuk.github.io/JSON/)
+## [JSON](https://github.com/yuliakondratsiuk/JSON) 
 
 4. Создать внешний репозиторий c названием JSON.
    > в github.com нажать new - ввести имя репозитория JSON - выбрать public - нажать Create repository
@@ -50,7 +50,7 @@
 20. Синхронизировать внешний и локальный репозиторий JSON.
     > git pull
 
-## [XML](https://github.com/yuliakondratsiuk/XML) [Page](https://yuliakondratsiuk.github.io/XML/)
+## [XML](https://github.com/yuliakondratsiuk/XML) 
 
 21. Создать внешний репозиторий c названием XML.
     > в github.com нажать new - ввести имя репозитория XML - выбрать public - нажать Create repository
