@@ -5,6 +5,7 @@
 * [Git_1] ()
 
 * [JSON](https://yuliakondratsiuk.github.io/JSON/)
+* [XML](https://yuliakondratsiuk.github.io/XML/)
 
 
 
