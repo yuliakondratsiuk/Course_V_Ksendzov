@@ -13,9 +13,9 @@
 * [XML](https://yuliakondratsiuk.github.io/XML/)  
 
 ### SQL
-* [SQL_DML](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/SQL_HW_DML)
+* [SQL_DML](https://yuliakondratsiuk.github.io/SQL/SQL_HW_DML)
     > SELECT, WHERE, LIKE, AND, OR, IN, BETWEEN, ORDER BY, DESC, MIN, MAX, COUNT
-* [SQL_DDL](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/SQL_HW_DDL)
+* [SQL_DDL](https://yuliakondratsiuk.github.io/SQL/SQL_HW_DDL)
     > CREATE, INSERT INTO, VALUES, ALTER, FOREIGN KEY
 * Self-lerning DROP, DELETE
 
