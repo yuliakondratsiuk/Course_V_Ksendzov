@@ -103,7 +103,7 @@ WHERE id < '127' OR id > '188';
 
 SELECT * 
 FROM students 
-WHERE id  between '127' and '188';
+WHERE id  BETWEEN '127' and '188';
 
 -- 22. Вывести пользователя у которых id меньше либо равно 137
 SELECT * 
