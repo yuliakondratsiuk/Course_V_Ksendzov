@@ -11,20 +11,26 @@
 
 1. На локальном репозитории сделать ветки для:
 
-- Postman
-  > git branch Postman
-- Jmeter
-  > git branch Jmeter
-- CheckLists
-  > git branch CheckLists
-- Bag Reports
-  > git branch BugReports
-- SQL
-  > git branch SQL
-- Charles
-  > git branch Charles
-- Mobile testing
-  > git branch MobileTesting
+      >  Postman
+      >> git branch Postman
+ 
+      > Jmeter
+      >> git branch Jmeter
+  
+      > CheckLists
+      >> git branch CheckLists
+
+      > Bag Reports
+      >> git branch BugReports
+ 
+      > SQL
+      >> git branch SQL
+ 
+      > Charles
+      >> git branch Charles
+ 
+      > Mobile testing
+      >> git branch MobileTesting
 
 2.  Запушить все ветки на внешний репозиторий
     > git push --all
