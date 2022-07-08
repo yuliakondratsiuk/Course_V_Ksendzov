@@ -8,7 +8,8 @@
 ### GIT
 * [Git_1](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/hw_git_1)
      > clone, add, commit, push, pull
-  
+* [Git_2](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/hw_git_2)
+    > branch, checkout, merge, Pull Request
 * [JSON](https://yuliakondratsiuk.github.io/JSON/)
 * [XML](https://yuliakondratsiuk.github.io/XML/)  
 
