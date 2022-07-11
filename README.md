@@ -14,7 +14,7 @@
 * [XML](https://yuliakondratsiuk.github.io/XML/)  
 
 ### Postman 
-* [Task 1](https://yuliakondratsiuk.github.io/Postman/Postman_HW1) | [Response from the server](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection)
+* [Task 1](https://yuliakondratsiuk.github.io/Postman/Postman_HW1) | [Response from the server](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection.json)
     > Get and Post reguest
 
 
