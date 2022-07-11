@@ -59,3 +59,5 @@
     > go to Pull Request - click new pull request - base:master compare:CheckLists - click create pull request - click Marge pull request - click Confirm merge
 10. Синхронизировать Внешнюю и Локальную ветки Main
     > git pull
+
+[Back to page Course_V_Ksendzov](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/) 
