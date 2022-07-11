@@ -13,6 +13,11 @@
 * [JSON](https://yuliakondratsiuk.github.io/JSON/)
 * [XML](https://yuliakondratsiuk.github.io/XML/)  
 
+### Postman 
+* [Task 1](https://yuliakondratsiuk.github.io/Postman/Postman_HW1) | [Response from the server](https://yuliakondratsiuk.github.io/Postman/postman_HW1_collection)
+    > Get and Post reguest
+
+
 ### SQL
 * [SQL_DML](https://yuliakondratsiuk.github.io/SQL/SQL_HW_DML)
     > SELECT, WHERE, LIKE, AND, OR, IN, BETWEEN, ORDER BY, DESC, MIN, MAX, COUNT
