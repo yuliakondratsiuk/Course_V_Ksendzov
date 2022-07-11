@@ -127,3 +127,5 @@
     > вписать комментарий - нажать commit new file
 18. Синхронизировать внешний и локальный репозиторий TXT
     > git pull
+
+[Back to page Course_V_Ksendzov](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/) 
