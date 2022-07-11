@@ -68,3 +68,5 @@
 
 >       Cохранить и выйти: "esc" ":wq"
 >       Выполняем скрипт: sh script.sh
+
+[Back to page Course_V_Ksendzov](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/) 
