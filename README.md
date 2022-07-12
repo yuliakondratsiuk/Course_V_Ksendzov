@@ -2,7 +2,7 @@
 Домашние задания по курсу от Вадима Ксендзова
 
 ### Bash / Termanal
-* [Terminale](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/hw_terminale_1)
+* [Terminal](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/hw_terminale_1)
     > pwd, mkdir, touch, vim, cat, cd, ls, mv, cp, find, tail, head, date, curl, script
 
 ### GIT
